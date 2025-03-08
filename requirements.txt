@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+youtube-transcript-api
+langchain
+numpy
