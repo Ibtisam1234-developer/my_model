@@ -1,5 +1,5 @@
 streamlit
-google-generativeai
+google-generativeai==0.4.0
 youtube-transcript-api
 langchain
 numpy
